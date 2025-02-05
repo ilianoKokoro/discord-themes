@@ -1,10 +1,10 @@
 /**
-* @name Nocturnal
-* @version 3.0.1
+* @name Nocturnal (Iliano101 ver.)
+* @version 3.0.2
 * @description For when default discord just isn't dark enough, a theme for those who live a night
 * @author Spectra
 * @invite PZdnCVD
-* @source https://github.com/xcruxiex/themes
+* @source https://github.com/Iliano101/nocturnal
 * @website https://betterdiscord.app/theme/Nocturnal
 */
 @import url("https://xcruxiex.github.io/themes/themes-cores/nocturnal.css");
@@ -38,7 +38,7 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
     --backgroundColor01: #1e2731;
     --backgroundColor02: #12171d;
     --mainColor: #2275c9;
-    --gradientColor01: #00f260;
+    --gradientColor01: #4287e2;
     --gradientColor02: #0575e6;
 
     /* Better Hljs */
@@ -60,10 +60,10 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
     --rs-phone-color: var(--rs-online-color);
 
     /* Unread Animation :
-    none -> static point.
+    none -> static point
     pulse -> pulsating point
     */
-    --unread-animation: pulse;
+    --unread-animation: none;
 
     --customFont: "gg sans", sans-serif;
 }
